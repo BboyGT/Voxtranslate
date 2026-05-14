@@ -43,11 +43,13 @@ next-env.d.ts
 local-*
 .claude
 .z-ai-config
+.zscripts/
 *.log
 dev.log
 dev.out.log
 test
 prompt
+download/
 
 server.log
 *.pid
