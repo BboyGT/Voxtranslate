@@ -14,15 +14,15 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "VoxTranslate — Real-time Audio Transcription & Translation",
+  title: "VoxTranslate - Real-time Audio Transcription & Translation",
   description: "Accurately listen, transcribe, and translate speech in real-time.",
   keywords: ["transcription", "translation", "speech-to-text", "real-time", "audio"],
-  authors: [{ name: "Z.ai Team" }],
+  authors: [{ name: "Godstime Aburu", url: "https://github.com/BboyGT" }],
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: "/logo.svg",
   },
   openGraph: {
-    title: "VoxTranslate — Real-time Audio Transcription & Translation",
+    title: "VoxTranslate - Real-time Audio Transcription & Translation",
     description: "Accurately listen, transcribe, and translate speech in real-time.",
     type: "website",
   },
